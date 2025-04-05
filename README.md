@@ -8,7 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yecoyz&layout=compact&theme=github_dark&hide_border=false&border_radius=10" width="48%" />
 </p>
 
-## 🔧 Languages & Tools<p align="center">
+## 🔧 Languages & Tools
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
